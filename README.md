@@ -7,6 +7,7 @@
 所有stl文件为3D打印文件，xlsx为机械零部件配件清单
 
 注意：
+
 MKS_Gen_L_Case_v2文件夹中的stl为MKS主控板的盒子模型，若选用该主板则打印该模型
 
 Fwd_skr_pico_case文件夹中的stl为SKR PICO主控板的盒子模型，若选用该主板则打印该模型
