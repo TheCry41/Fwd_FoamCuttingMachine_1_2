@@ -1,0 +1,9 @@
+文本说明
+
+本文件由B站up主quasiflight1分享，由TheCry_41上场，因为up旧网盘链接失效，所以特上传此处作为分享
+
+文件说明
+
+所有stl文件为3D打印文件，xlsx为其他配件清单
+
+MKS_Gen_L_Case_v2_-_MKS_Gen_L_Enclosure.stl以及MKS_Gen_L_Case_v2_-_MKS_Gen_L_Lid.stl为MKS主板的盒子
